@@ -1,3 +1,8 @@
+//$ $ $ $ 
+//$     $ 
+//$     $ 
+//$ $ $ $ 
+
 
 public class Pattern6 {
 	
