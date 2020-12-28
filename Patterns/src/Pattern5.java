@@ -1,4 +1,11 @@
-
+//A 
+//A B 
+//A B C 
+//A B C D 
+//A B C D E 
+//A B C D E F 
+//A B C D E F G 
+//A B C D E F G H 
 public class Pattern5 {
 	
 	public static void main(String args []) {
